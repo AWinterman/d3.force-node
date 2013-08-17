@@ -1,0 +1,28 @@
+{
+  "name": "d3.force-nodes",
+  "version": "0.0.0",
+  "description": "Operations to add and remove nodes (and their links) from d3 force directed graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AWinterman/d3.force-node.git"
+  },
+  "keywords": [
+    "d3",
+    "force",
+    "directed",
+    "graph",
+    "nodes"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AWinterman/d3.force-node/issues"
+  },
+  "dependencies": {
+    "d3.force-link-change": "0.0.0"
+  }
+}
