@@ -1,6 +1,6 @@
 {
   "name": "d3.force-nodes",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Operations to add and remove nodes (and their links) from d3 force directed graphs",
   "main": "index.js",
   "scripts": {
